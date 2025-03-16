@@ -1,4 +1,4 @@
-![logo]([https://github.com/Muhammad-Fraooq/Muhammad_Farooq/blob/main/Purple Modern Technology LinkedIn Banner.png])
+![logo](https://github.com/Muhammad-Fraooq/Muhammad_Farooq/blob/main/Purple Modern Technology LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <h3 align="center">🌟A Passionate frontend developer embarking on full-stack development journey for comprehensive web solutions. from Pakistan</h3>
 

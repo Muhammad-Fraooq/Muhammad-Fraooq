@@ -16,7 +16,7 @@
 - ⚡ In my free time, I love exploring **AI tools, open-source projects, and coding experiments**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://porfolio-milestone-2-pk.vercel.app/)  
 
-## 🛠️ Tech Stack  
+## 🛠️ Languages and Tools
 
 <p align="left">  
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode,figma,nodejs,express,mongodb,fastapi,postman" />  
@@ -66,14 +66,13 @@
 
 - 🏥 [Hospital Management System (Python CLI Project)](https://github.com/Muhammad-Fraooq/hospital_management_system)  
 - 🌐 [Portfolio Website](https://porfolio-milestone-2-pk.vercel.app/)  
-- 🤖 [Multi-Agent AI System](https://huggingface.co/spaces/muhammaddev2007/multi-agent)  
 - 🧠 [AI Agents Service Platform](https://agentia-world-by-muhammad.vercel.app/)
 - 🛒 [ShopifyX – Full-Stack E-Commerce Solution](https://full-stack-ecommerce-website-seven.vercel.app/)
 
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 </p>
 
 <!-- Thank You (bounce left ↔ right) -->

@@ -77,8 +77,4 @@
 </p>
 
 <!-- Thank You (bounce left ↔ right) -->
-<p align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="6" width="80%">
-    🙏✨ Thank you for visiting my GitHub profile! — Keep Coding 🚀
-  </marquee>
-</p>
+<center><p style="color:blue">🙏✨ Thank you for visiting my Github profile! — Keep Coding 🚀</p></center>

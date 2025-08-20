@@ -1,17 +1,12 @@
 <!-- Banner -->
 ![logo](https://github.com/Muhammad-Fraooq/Muhammad_Farooq/blob/main/logo.png)
 
----
+<!-- Main Heading -->
+<h2 align="center">Hi 👋, I'm Muhammad Farooq from Pakistan 🇵🇰</h2>
 
 <!-- Animated Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Muhammad+Farooq;🌟+Frontend+Developer+from+Pakistan;Exploring+Full-Stack+%26+Agentic+AI+🚀;💡+Future+Agentic+AI+Engineer" alt="Typing Animation"/>
-</p>
-
----
-
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Fraooq&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=🌟+Frontend+Developer;🌍+Exploring+Full-Stack+%26+Agentic+AI;💡+Future+Agentic+AI+Engineer+🚀" alt="Typing Animation"/>
 </p>
 
 ## 👨‍💻 About Me  
@@ -21,15 +16,11 @@
 - ⚡ In my free time, I love exploring **AI tools, open-source projects, and coding experiments**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://porfolio-milestone-2-pk.vercel.app/)  
 
----
-
 ## 🛠️ Tech Stack  
 
 <p align="left">  
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode,figma,nodejs,express,mongodb,fastapi,postman" />  
 </p>  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -39,15 +30,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fraooq&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>  
 </p>  
 
----
-
 ## 🏆 GitHub Trophies  
 
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Fraooq&theme=tokyonight&no-frame=true&row=1&column=8" />  
 </p>  
-
----
 
 ## 🌐 Connect with Me  
 
@@ -60,7 +47,20 @@
   <a href="https://medium.com/@muhammadfarooqdev"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>  
 </p>  
 
----
+## 📊 Profile Stats  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Fraooq&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <a href="https://github.com/Muhammad-Fraooq?tab=followers">
+    <img src="https://img.shields.io/github/followers/Muhammad-Fraooq?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  
+  <a href="https://github.com/Muhammad-Fraooq?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Muhammad-Fraooq?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  </a>
+</p>
+
 
 ## 🚀 Featured Projects  
 

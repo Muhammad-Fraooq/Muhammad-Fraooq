@@ -70,9 +70,15 @@
 - 🧠 [AI Agents Service Platform](https://agentia-world-by-muhammad.vercel.app/)
 - 🛒 [ShopifyX – Full-Stack E-Commerce Solution](https://full-stack-ecommerce-website-seven.vercel.app/)
 
----
 
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer"/>
+</p>
+
+<!-- Thank You (bounce left ↔ right) -->
+<p align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="6" width="80%">
+    🙏✨ Thank you for visiting my GitHub profile! — Keep Coding 🚀
+  </marquee>
 </p>

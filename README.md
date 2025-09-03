@@ -63,15 +63,6 @@
   </a>
 </p>
 
-
-## 🚀 Featured Projects  
-
-- 🏥 [Hospital Management System (Python CLI Project)](https://github.com/Muhammad-Fraooq/hospital_management_system)  
-- 🌐 [Portfolio Website](https://porfolio-milestone-2-pk.vercel.app/)  
-- 🧠 [AI Agents Service Platform](https://agentia-world-by-muhammad.vercel.app/)
-- 🛒 [ShopifyX – Full-Stack E-Commerce Solution](https://full-stack-ecommerce-website-seven.vercel.app/)
-
-
 ## 💬 Let's Collaborate!
 
 Open to working on web apps, AI projects, or open-source. Reach out via [email](mailto:muhammad888xyz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-farooq-developer)!

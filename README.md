@@ -27,9 +27,9 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Fraooq&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Fraooq&theme=dracula&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fraooq&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Farooq&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Farooq&theme=dracula&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Farooq&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ## 🏆 Achievements
